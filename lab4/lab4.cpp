@@ -1,3 +1,6 @@
+//Name: Jion Fairchild
+//Section: B
+//Description: This is a program for testing various debugger functions and learning about all sorts of fun errors that you can get.
 #include<vector>
 #include<string>
 #include<iostream>
