@@ -1,3 +1,7 @@
+//Name: Jion Fairchild
+//Section: BLab
+//Description: a program to model the interactions between a class of students and their lab instructor.
+
 #include <iostream>
 #include <vector>
 #include <string>
