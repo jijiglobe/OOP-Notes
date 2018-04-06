@@ -7,7 +7,7 @@
 #include <iostream>
 #include "Rational.h"
 using namespace std;
-//using namespace CS2124;
+using namespace CS2124;
 
 int main() {
     Rational twoThirds(2,3);
